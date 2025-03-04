@@ -1,2 +1,4 @@
-Designed and implemented a fully responsive News Blog application using PHP, MySQL, and JavaScript, featuring separate user and admin panels for efficient content management.
-Enabled advanced functionality with category-based news search for users and full CRUD operations for admins, ensuring seamless control and relational database integrity.
+# Developed a dynamic News Blog using PHP, MySQL, HTML, and CSS, implementing a dual-panel admin and user management system.
+# Integrated authentication and authorization using PHP sessions, ensuring secure access control for creating, updating, and deleting news.
+# Designed a robust SQL database following ACID properties, enabling efficient news categorization, search functionality, and data integrity.
+# Design Dashboard for the user interaction view is available on GitHub.
